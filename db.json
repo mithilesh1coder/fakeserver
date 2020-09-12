@@ -1,0 +1,66 @@
+[
+{
+  "product_id":"1",
+  "product_name":"Coombes",
+  "product_category":"Lounge",
+  "product_price":"$1300",
+  "product_rating":"4"
+},
+{
+  "product_id":"2",
+  "product_name":"Coombes",
+  "product_category":"Lounge",
+  "product_price":"Lounge",
+  "product_rating":"6"
+},
+{
+  "product_id":"3",
+  "product_name":"Coombes",
+  "product_category":"Lounge",
+  "product_price":"Lounge",
+  "product_rating":"4"
+},
+{
+  "product_id":"4",
+  "product_name":"Coombes",
+  "product_category":"Lounge",
+  "product_price":"Lounge",
+  "product_rating":"4"
+},
+{
+  "product_id":"5",
+  "product_name":"Coombes",
+  "product_category":"Lounge",
+  "product_price":"Lounge",
+  "product_rating":"4"
+},
+{
+  "product_id":"6",
+  "product_name":"Coombes",
+  "product_category":"Lounge",
+  "product_price":"Lounge",
+  "product_rating":"4"
+},
+{
+  "product_id":"7",
+  "product_name":"Coombes",
+  "product_category":"Lounge",
+  "product_price":"Lounge",
+  "product_rating":"4"
+},
+{
+  "product_id":"8",
+  "product_name":"Coombes",
+  "product_category":"Lounge",
+  "product_price":"Lounge",
+  "product_rating":"4"
+},
+{
+  "product_id":"9",
+  "product_name":"Coombes",
+  "product_category":"Lounge",
+  "product_price":"$2300",
+  "product_rating":"4"
+}
+
+]
